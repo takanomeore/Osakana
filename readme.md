@@ -1,4 +1,4 @@
-#OsakanaGame
+#　OsakanaGame
 Unityで制作したおさかなパクパクゲームです
 各ブランチの説明
 Projects:プロジェクトファイルを置いています
